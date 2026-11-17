@@ -1,0 +1,14 @@
+[
+  {"Id": 1, "Nombre": "Lavado y secado (canasto 6 kg)", "Categoria": "Lavado", "Precio": 9500},
+  {"Id": 2, "Nombre": "Acolchado 1 plaza", "Categoria": "Ropa de cama", "Precio": 14000},
+  {"Id": 3, "Nombre": "Acolchado 2 plazas", "Categoria": "Ropa de cama", "Precio": 18000},
+  {"Id": 4, "Nombre": "Frazada", "Categoria": "Ropa de cama", "Precio": 12000},
+  {"Id": 5, "Nombre": "Juego de sábanas", "Categoria": "Ropa de cama", "Precio": 6500},
+  {"Id": 6, "Nombre": "Camisa (lavado y planchado)", "Categoria": "Planchado", "Precio": 4500},
+  {"Id": 7, "Nombre": "Pantalón (planchado)", "Categoria": "Planchado", "Precio": 3500},
+  {"Id": 8, "Nombre": "Saco o blazer (tintorería)", "Categoria": "Tintorería", "Precio": 16000},
+  {"Id": 9, "Nombre": "Campera de abrigo", "Categoria": "Tintorería", "Precio": 22000},
+  {"Id": 10, "Nombre": "Vestido de fiesta", "Categoria": "Tintorería", "Precio": 28000},
+  {"Id": 11, "Nombre": "Cortina (por paño)", "Categoria": "Hogar", "Precio": 11000},
+  {"Id": 12, "Nombre": "Mantel grande", "Categoria": "Hogar", "Precio": 7000}
+]

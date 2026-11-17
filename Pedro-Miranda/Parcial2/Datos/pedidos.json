@@ -1,0 +1,179 @@
+[
+  {
+    "Id": 1,
+    "Cliente": "Lucía Fernández",
+    "Telefono": "2235550101",
+    "Observaciones": "",
+    "Cuit": "",
+    "FormaPago": "Efectivo",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Acolchado 2 plazas",
+        "PrecioUnitario": 18000,
+        "Cantidad": 1,
+        "Subtotal": 18000
+      },
+      {
+        "Descripcion": "Juego de sábanas",
+        "PrecioUnitario": 6500,
+        "Cantidad": 2,
+        "Subtotal": 13000
+      }
+    ],
+    "Ajuste": -3100,
+    "Total": 27900,
+    "Estado": "Entregado",
+    "FechaIngreso": "2026-11-16T08:10:00"
+  },
+  {
+    "Id": 2,
+    "Cliente": "Martín Sosa",
+    "Telefono": "2235550102",
+    "Observaciones": "Mancha de vino en la manga",
+    "Cuit": "",
+    "FormaPago": "Tarjeta",
+    "Cuotas": 3,
+    "Items": [
+      {
+        "Descripcion": "Saco o blazer (tintorería)",
+        "PrecioUnitario": 16000,
+        "Cantidad": 1,
+        "Subtotal": 16000
+      },
+      {
+        "Descripcion": "Camisa (lavado y planchado)",
+        "PrecioUnitario": 4500,
+        "Cantidad": 4,
+        "Subtotal": 18000
+      }
+    ],
+    "Ajuste": 3400,
+    "Total": 37400,
+    "Estado": "Entregado",
+    "FechaIngreso": "2026-11-16T08:45:00"
+  },
+  {
+    "Id": 3,
+    "Cliente": "Hostería Los Tilos",
+    "Telefono": "2234990000",
+    "Observaciones": "Retira el chofer",
+    "Cuit": "30-71234567-8",
+    "FormaPago": "Cuenta empresa",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Juego de sábanas",
+        "PrecioUnitario": 6500,
+        "Cantidad": 12,
+        "Subtotal": 78000
+      },
+      {
+        "Descripcion": "Frazada",
+        "PrecioUnitario": 12000,
+        "Cantidad": 4,
+        "Subtotal": 48000
+      }
+    ],
+    "Ajuste": -10080,
+    "Total": 115920,
+    "Estado": "ParaRetirar",
+    "FechaIngreso": "2026-11-16T09:20:00"
+  },
+  {
+    "Id": 4,
+    "Cliente": "Carla Benítez",
+    "Telefono": "2235550104",
+    "Observaciones": "",
+    "Cuit": "",
+    "FormaPago": "Tarjeta",
+    "Cuotas": 2,
+    "Items": [
+      {
+        "Descripcion": "Vestido de fiesta",
+        "PrecioUnitario": 28000,
+        "Cantidad": 1,
+        "Subtotal": 28000
+      }
+    ],
+    "Ajuste": 1400,
+    "Total": 29400,
+    "Estado": "Lavando",
+    "FechaIngreso": "2026-11-16T10:05:00"
+  },
+  {
+    "Id": 5,
+    "Cliente": "Diego Romero",
+    "Telefono": "2235550105",
+    "Observaciones": "",
+    "Cuit": "",
+    "FormaPago": "Efectivo",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Lavado y secado (canasto 6 kg)",
+        "PrecioUnitario": 9500,
+        "Cantidad": 2,
+        "Subtotal": 19000
+      },
+      {
+        "Descripcion": "Pantalón (planchado)",
+        "PrecioUnitario": 3500,
+        "Cantidad": 3,
+        "Subtotal": 10500
+      }
+    ],
+    "Ajuste": -2950,
+    "Total": 26550,
+    "Estado": "Cancelado",
+    "FechaIngreso": "2026-11-16T10:30:00"
+  },
+  {
+    "Id": 6,
+    "Cliente": "Restaurante El Puerto",
+    "Telefono": "2234880011",
+    "Observaciones": "Sin suavizante",
+    "Cuit": "30-70987654-3",
+    "FormaPago": "Cuenta empresa",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Mantel grande",
+        "PrecioUnitario": 7000,
+        "Cantidad": 6,
+        "Subtotal": 42000
+      }
+    ],
+    "Ajuste": -2100,
+    "Total": 39900,
+    "Estado": "Lavando",
+    "FechaIngreso": "2026-11-16T11:00:00"
+  },
+  {
+    "Id": 7,
+    "Cliente": "Sofía Paz",
+    "Telefono": "2235550107",
+    "Observaciones": "",
+    "Cuit": "",
+    "FormaPago": "Efectivo",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Campera de abrigo",
+        "PrecioUnitario": 22000,
+        "Cantidad": 1,
+        "Subtotal": 22000
+      },
+      {
+        "Descripcion": "Cortina (por paño)",
+        "PrecioUnitario": 11000,
+        "Cantidad": 2,
+        "Subtotal": 22000
+      }
+    ],
+    "Ajuste": -4400,
+    "Total": 39600,
+    "Estado": "EnEspera",
+    "FechaIngreso": "2026-11-16T11:40:00"
+  }
+]
